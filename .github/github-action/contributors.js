@@ -1,5 +1,4 @@
 const contributors = [
-  'tomalaforge',
   'alcaidio',
   'svenson95',
   'jdegand',
@@ -15,4 +14,5 @@ const sponsors = ['ddotx', 'LMFinney'];
 
 module.exports = {
   contributors,
+  sponsors,
 };
