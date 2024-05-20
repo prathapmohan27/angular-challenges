@@ -6,10 +6,9 @@ contributors:
   - alcaidio
   - svenson95
 challengeNumber: 48
-command: avoid-losing-form-data
+command: forms-avoid-losing-form-data
 sidebar:
   order: 121
-  badge: New
 ---
 
 ## Context
