@@ -9,6 +9,7 @@ const contributors = [
   'kabrunko-dev',
   'Sanjar1304',
   'tsironis13',
+  'EnochGao',
 ];
 
 const sponsors = [
@@ -19,6 +20,8 @@ const sponsors = [
   'fpalmab',
   'CivilEngeneer',
   'apalaio',
+  'amosISA',
+  'michalgrzegorczyk-dev',
 ];
 
 module.exports = {
